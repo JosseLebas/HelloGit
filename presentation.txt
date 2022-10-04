@@ -2,3 +2,5 @@ nom: Lebas
 âge: 21
 sexe: Masculin
 taile: 1m78
+couleur préférée: bleu bleu bleu bleu bleu
+Ville de naissance: Pessac
