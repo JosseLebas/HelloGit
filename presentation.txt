@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MA PRESENTATION LOCALE
+=======
+MA PRESENTATION GITHUB
+>>>>>>> ae0612e3139746ab071075e2c7a6327903b22d25
 
 nom: Lebas
 âge: 21
@@ -6,3 +10,4 @@ sexe: Masculin
 taile: 1m78
 couleur préférée: bleu bleu bleu bleu bleu
 Ville de naissance: Pessac
+
