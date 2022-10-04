@@ -1,0 +1,4 @@
+nom: Lebas
+âge: 21
+sexe: Masculin
+taile: 1m78
